@@ -1,7 +1,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=openaidevelopernz&show_icons=true&theme=radical)
-![snake](https://github.com/openaidevelopernz/openaidevelopernz/blob/output/github-snake.svg#gh-light-mode-only)
-![snake](https://github.com/openaidevelopernz/openaidevelopernz/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-
 <!--
 **openaidevelopernz/openaidevelopernz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
