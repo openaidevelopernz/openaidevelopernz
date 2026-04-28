@@ -1,5 +1,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=openaidevelopernz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=openaidevelopernz&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=openaidevelopernz&theme=tokyonight)
 
 
