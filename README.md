@@ -1,7 +1,5 @@
-## Hi there 👋
-## My name is Sam Altman.
-## I'm the CEO of OpenAI.
-## I'm currently working on ChatGPT and Codex.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=openaidevelopernz&show_icons=true&theme=radical)
+
 
 <!--
 **openaidevelopernz/openaidevelopernz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
